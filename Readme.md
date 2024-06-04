@@ -17,12 +17,13 @@ The OpenLib project is designed to provide a comprehensive and accessible online
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Javascript
+- **Frontend**: HTML, CSS, Bootstrap, Javascript
+- **Backend**: Python/Flask
 
 ## Cloud Services
 
-- **Static App**: For hosting and serving the web application.
+- **Web App**: For hosting and serving the web application.
+- **Azure Blob Storage**: For storing books in azure cloud.
 - **Monitor**: For tracking and analyzing the performance and usage of the application.
 - **AI Services**: For enhancing the user experience with features like personalized recommendations and voice search.
 
