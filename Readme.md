@@ -48,7 +48,7 @@ OPENLIB is a web application allows users to access, read, and download books fo
 2. Navigate to the Project Directory:
 
    ```cmd
-   C:\Users\sande\OneDrive\Documents\Santhosh\Magic Bus Project\openlib>cd openlib
+   C:\Users\sande\OneDrive\Documents\Santhosh\Magic Bus Project>cd openlib
    ```
 
 
