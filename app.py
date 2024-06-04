@@ -109,7 +109,7 @@ def signup():
 @app.route('/books')
 def books():
     blob_details = get_blob_details()
-    return render_template('books.html', blob_details=blob_details)
+    return render_template('Books.html', blob_details=blob_details)
 
 @app.route('/upload')
 def upload():
