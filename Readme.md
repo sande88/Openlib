@@ -51,32 +51,69 @@ OPENLIB is a web application allows users to access, read, and download books fo
 ## Monitor
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/monitor.png)
 
-## Storage Account
+## Azure Blob Storage
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/storageaccount.png)
 
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/blobcontainers.png)
 
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/blobs.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082413.png)
+## AI Service
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082426.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/language.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082436.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/languagestudiohome.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082449.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/languagestudioquestions.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082514.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/languagestudiodeploypage.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082706.png)
 
-## AI Bot
+# Webpage
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20211006.png)
+## Home page
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage1.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20210417.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage2.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20211048.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage3.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20211102.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage4.png)
+
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage7.png)
+
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage8.png)
+
+## Books
+Books page before login
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage1.png)
+
+## Signup Page
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/registerpage.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/registerpage2.png)
+
+
+## login Page
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/loginpage1.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/loginpage2.png)
+
+
+Books page after login
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookspageafterlogin.png)
+
+## Upload Page
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/uploadpage1.png)
+
+Books Page After Uploading a book
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage2.png)
+
+## Contact page
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contactpage.png)
+
+## Chat Page
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/chatpage1.png)
+
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/chatpage2.png)
+
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/chatpage3.png)
 
