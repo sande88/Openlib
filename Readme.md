@@ -36,6 +36,34 @@ OPENLIB is a web application allows users to access, read, and download books fo
 - Reading books online
 - Download books
 
+## How to Run the Project
+1. Clone the Repository: 
+
+   ```
+   git clone https://github.com/sande88/Openlib.git
+   ```
+
+
+2. Navigate to the Project Directory:
+
+   ```cmd
+   C:\Users\sande\OneDrive\Documents\Santhosh\Magic Bus Project\openlib>cd openlib
+   ```
+
+
+3. Install Dependencies:
+   ```cmd
+   C:\Users\sande\OneDrive\Documents\Santhosh\Magic Bus Project\openlib>pip install -r requirements.txt
+   ```
+
+4. Run the Application:
+   ```cmd
+   C:\Users\sande\OneDrive\Documents\Santhosh\Magic Bus Project\openlib>python app.py
+   ```
+
+5. Acessing webpage:
+   Open your web browser and go to http://127.0.0.1:5000.
+
 ## Contact
 
 - *Santhosh B*: Sandesanthosh88@gmail.com
