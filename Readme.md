@@ -6,10 +6,10 @@
 
 ## Collabrators
 
-- **Gokul Raj** - Frontend
-- **Yuvarani** - Backend
-- **Hemanth Kumar** - Cloud Service Integration
-- **Santhosh** - README File/Voice Over
+- **Santhosh B**: Sandesanthosh88@gmail.com
+- **Hemanth Kumar D**: hemanth22bala@gmail.com
+- **GokulRaj E**: gkraj0806@gmail.com
+- **Yuvarani S**: yuvaranis139@gmail.com
 
 
 ## Description
