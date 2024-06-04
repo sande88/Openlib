@@ -3,12 +3,13 @@
 ## Demo Video URL: https://youtu.be/RLF_bXXux8I
 
 
+
 ## Collabrators
 
-- **Gokul Raj** - Frontend
-- **Yuvarani** - Backend
-- **Hemanth Kumar** - Cloud Service Integration
-- **Santhosh** - README File/Voice Over
+- **Santhosh B**: Sandesanthosh88@gmail.com
+- **Hemanth Kumar D**: hemanth22bala@gmail.com
+- **GokulRaj E**: gkraj0806@gmail.com
+- **Yuvarani S**: yuvaranis139@gmail.com
 
 
 ## Description
@@ -66,10 +67,10 @@ OPENLIB is a web application allows users to access, read, and download books fo
 
 ## Contact
 
-- *Santhosh B*: Sandesanthosh88@gmail.com
-- *Hemanth Kumar D*: hemanth
-- *GokulRaj E*: gkraj0806@gmail.com
-- *Yuvarani S*: yuvarani
+- **Santhosh B**: Sandesanthosh88@gmail.com
+- **Hemanth Kumar D**: hemanth22bala@gmail.com
+- **GokulRaj E**: gkraj0806@gmail.com
+- **Yuvarani S**: yuvaranis139@gmail.com
 
 ## Azure Services ScreenShorts
 
