@@ -18,7 +18,6 @@ class Book(db.Model):
     title = db.Column(db.String(150), nullable=False)
     description = db.Column(db.String(500), nullable=False)
     blob_name = db.Column(db.String(150), nullable=False)
-    # cover_image_blob_name = db.Column(db.String(150), nullable=True)
 
 with app.app_context():
     db.create_all()

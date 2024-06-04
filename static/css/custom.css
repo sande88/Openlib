@@ -647,3 +647,8 @@
   align-items: center;
   
 }
+
+.activenavbar a.active{
+    color: #d72df5;
+
+}
