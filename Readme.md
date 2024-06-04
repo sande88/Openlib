@@ -43,15 +43,19 @@ OPENLIB is a web application allows users to access, read, and download books fo
 - *Yuvarani S*: yuvarani
 
 ## Azure Services ScreenShorts
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20081807.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20081852.png)
+## Web App
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/webapp.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20081911.png)
+## Monitor
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/monitor.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20081932.png)
+## Storage Account
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/storageaccount.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082313.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/blobcontainers.png)
+
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/blobs.png)
 
 ![image](https://github.com/sande88/MagicBus/blob/master/Screenshot%202024-06-01%20082413.png)
 
