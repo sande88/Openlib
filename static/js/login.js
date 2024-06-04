@@ -45,9 +45,10 @@ document.addEventListener('DOMContentLoaded', function () {
 		document.getElementById('loginformbutton').style.display = 'none';
 		document.getElementById('logoutformbutton').style.display = 'block';
 		document.getElementById('uploadbutton').style.display = 'block';
-		document.getElementById('textupload').innerHTML = '<h1>Upload Books To Read</h1>'
+		document.getElementById('textupload').innerHTML = '<h1>Upload Books To Read</h1>';
+		document.getElementById('deletebutton').style.display = 'inline';
 
-		
+	
 	}
 });
 
@@ -95,73 +96,17 @@ if (document.getElementById('registerForm') != null) {
 
 document.getElementById('logoutformbutton').addEventListener('click', function(event) {
 	// Clear login status
-	sessionStorage.removeItem('isLoggedIn');
+	sessionStorage.setItem('isLoggedIn', 'false');
 	// Redirect to login page
-	window.location.href = '/';
+	window.location.href = '/books';
 });
 
 
-//working
+document.addEventListener('DOMContentLoaded', function () {
 
+	if (sessionStorage.getItem('isLoggedIn')== 'false') {
+		document.getElementById('deletebutton').style.display="none"
 
-// if ( document.getElementById('loginForm') != null ) {
-// 	document.getElementById('loginForm').addEventListener('submit', function(event) {
-// 	event.preventDefault(); // Prevent the form from submitting the default way
-
-// 	 email = document.getElementById('email').value;
-// 	 password = document.getElementById('password').value;
-// 	 errorMessage = document.getElementById('error-message');
-// 	 storedUserName=localStorage.getItem("email");
-// 	storedPassword=localStorage.getItem("password");
-// 	if (email === '' && password === '') {
-// 		alert('Login successful');
-// 		// Redirect to the homepage or perform other actions upon successful login
-// 		window.location.href = 'login.html';
-// 		sessionStorage.setItem('isLoggedIn', 'true');
-
-		
-// 		return;
-// 	} 
-// 	// Placeholder for actual authentication logic
-// 	if (storedUserName === email && storedPassword === password) {
-// 		alert('signin successful');
-// 		// Redirect to the homepage or perform other actions upon successful login
-// 		window.location.href = 'index.html';
-// 		sessionStorage.setItem('isLoggedIn', 'true');
-
-// 	} else {
-// 		errorMessage.textContent = 'Invalid username or password';
-// 		errorMessage.style.display = 'block';
-// 	}
 	
-// });
-
-// }
-
-// //register
-// if (document.getElementById('registerForm') != null) {
-// document.getElementById('registerForm').addEventListener('submit', function(event) {
-// 	event.preventDefault(); // Prevent the form from submitting the default way
-
-// 	 regusername = document.getElementById('name').value;
-// 	 regemail = document.getElementById('reg-email').value;
-// 	 regpassword = document.getElementById('reg-password').value;
-// 	 regerrorMessage = document.getElementById('register-error-message');
-	 
-// 	 localStorage.setItem("email",regemail);
-// 	 localStorage.setItem("password",regpassword);
-// 		storedUserName=localStorage.getItem("email");
-// 		storedPassword=localStorage.getItem("password");
-		
-// 	// Placeholder for actual registration logic
-// 	if (regusername && regemail && regpassword) {
-// 		alert('Registration successful');
-// 		// Redirect to the login page or perform other actions upon successful registration
-// 		window.location.href = 'login.html';
-// 	} else {
-// 		regerrorMessage.textContent = 'Please fill in all fields';
-// 		regerrorMessage.style.display = 'block';
-// 	}
-// });
-
-// }
+	}
+});

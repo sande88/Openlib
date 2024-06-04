@@ -89,8 +89,8 @@
                         <div style="display: flex;">
                         <div class="author8 addtocart"><a class="addtocart" href="{{ book.url }}">Read</a></div>
                         <div style="padding-top: 20px;padding-left: 50px;">
-                        <form action="{{ url_for('delete', blob_name=book.blob_name) }}" method="post" style="display:inline;">
-                            <button type="submit" class="btn btn-danger">Delete</button>
+                        <form action="{{ url_for('delete', blob_name=book.blob_name) }}" method="post" style="display:inline;" id="deletebutton">
+                            <button type="submit"  class="btn btn-danger">Delete</button>
                         </form>
                     </div>
                     </div>
