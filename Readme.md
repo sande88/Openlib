@@ -1,5 +1,5 @@
 # Title: OpenLib
-## Demo URL: https://thankful-water-0be789a10.5.azurestaticapps.net
+## Demo URL: https://openlib.azurewebsites.net/
 ## Demo Video URL: https://youtu.be/RLF_bXXux8I
 
 
