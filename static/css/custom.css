@@ -559,6 +559,19 @@
 
 .team-corner{
   border-radius: 50px;
+  border-color: #126ef7;
+  border-style: solid;
+}
+
+.team-corner2{
+  border-style: none;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  
+}
+
+.imgcorner{
+  width: 300px;
 }
 
 .team-button{
@@ -664,4 +677,37 @@
 
 .uploadbuttonstyle:hover{
   text-decoration: none;
+}
+
+
+.backgroundround{
+  background-color: #ffffff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-style:solid;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-style: dashed;
+  border-color: #1c6bff;
+
+}
+
+.cardbg{
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-style: solid;
+  border-color: #1c6bff;
+  border-style: dashed;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: none;
+
+}
+
+.owl-dot{
+  border-radius: 40px;
+}
+
+.bgcolorfooter{
+  background-color: rgb(81, 137, 248);
 }
