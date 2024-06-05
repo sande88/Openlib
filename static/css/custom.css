@@ -652,3 +652,16 @@
     color: #d72df5;
 
 }
+
+
+.usernamecolor{
+  color: #00dbde;
+}
+
+.uploadbuttonstyle{
+  text-decoration: none;
+}
+
+.uploadbuttonstyle:hover{
+  text-decoration: none;
+}
