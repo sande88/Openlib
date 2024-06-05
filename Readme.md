@@ -117,7 +117,7 @@ OPENLIB is a web application allows users to access, read, and download books fo
 
 ## Books
 Books page before login
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpageafterlogin.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage1.png)
 
 ## Signup Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/registerpage.png)
@@ -130,7 +130,7 @@ Books page before login
 
 
 Books page after login
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookspageafterlogin.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpageafterlogin.png)
 
 ## Upload Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/uploadpage1.png)
