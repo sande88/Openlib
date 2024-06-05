@@ -137,7 +137,7 @@ Books Page After Uploading a book
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage2.png)
 
 ## Contact page
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contact.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contactpage2.png)
 
 ## Chat Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/chatpage1.png)
