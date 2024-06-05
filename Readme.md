@@ -22,7 +22,7 @@ The OpenLib project is designed to provide a comprehensive and accessible online
 
 ## Cloud Services
 
-- **Web App**: For hosting and serving the web application.
+- **App Service**: For hosting and serving the web application.
 - **Azure Blob Storage**: For storing books in azure cloud.
 - **Monitor**: For tracking and analyzing the performance and usage of the application.
 - **AI Services**: For enhancing the user experience with features like personalized recommendations and voice search.
