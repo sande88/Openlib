@@ -73,6 +73,9 @@ OPENLIB is a web application allows users to access, read, and download books fo
 
 ## Azure Services ScreenShorts
 
+## Resource Group
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/resourcegroup.png)
+
 ## Web App
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/webapp.png)
 
@@ -110,11 +113,11 @@ OPENLIB is a web application allows users to access, read, and download books fo
 
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage7.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage8.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/feedback.png)
 
 ## Books
 Books page before login
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage1.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpageafterlogin.png)
 
 ## Signup Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/registerpage.png)
@@ -136,7 +139,7 @@ Books Page After Uploading a book
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage2.png)
 
 ## Contact page
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contactpage.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contact.png)
 
 ## Chat Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/chatpage1.png)
