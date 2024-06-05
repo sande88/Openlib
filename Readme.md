@@ -12,7 +12,7 @@
 
 ## Description
 
-The OpenLib project is designed to provide a comprehensive and accessible online platform where users can freely browse, read, and review a wide range of books. Our aim is to create an intuitive and user-friendly interface that caters to book enthusiasts, allowing them to explore various genres and authors. The platform also incorporates advanced cloud services to ensure seamless performance and scalability.
+The OpenLib project is designed to provide a comprehensive and accessible online platform where users can freely browse, read, and Upload a wide range of books. Our aim is to create an intuitive and user-friendly interface that caters to book enthusiasts, allowing them to explore various genres and authors. The platform also incorporates advanced cloud services to ensure seamless performance and scalability.
 
 ## Technologies Used
 
@@ -27,9 +27,10 @@ The OpenLib project is designed to provide a comprehensive and accessible online
 - **AI Services**: For enhancing the user experience with features like personalized recommendations and voice search.
 
 ## Overview
-OPENLIB is a web application allows users to access, read, and download books for free. The application should be user-friendly, secure, and scalable to accommodate a large number of users and books.
+OPENLIB is a web application allows users to Upload, read, and download books for free. The application should be user-friendly, secure, and scalable to accommodate a large number of users and books.
 ## Key Features
-- User Authentication
+- Upload Books 
+- User login
 - Book Management
 - User Friendly interface
 - Reading books online
