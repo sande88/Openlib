@@ -3,7 +3,6 @@
 ## Demo Video URL: https://youtu.be/RLF_bXXux8I
 
 
-
 ## Collabrators
 
 - **Santhosh B**: Sandesanthosh88@gmail.com
@@ -14,7 +13,7 @@
 
 ## Description
 
-The OpenLib project is designed to provide a comprehensive and accessible online platform where users can freely browse, read, and review a wide range of books. Our aim is to create an intuitive and user-friendly interface that caters to book enthusiasts, allowing them to explore various genres and authors. The platform also incorporates advanced cloud services to ensure seamless performance and scalability.
+The OpenLib project is designed to provide a comprehensive and accessible online platform where users can freely browse, read, and Upload a wide range of books. Our aim is to create an intuitive and user-friendly interface that caters to book enthusiasts, allowing them to explore various genres and authors. The platform also incorporates advanced cloud services to ensure seamless performance and scalability.
 
 ## Technologies Used
 
@@ -23,15 +22,16 @@ The OpenLib project is designed to provide a comprehensive and accessible online
 
 ## Cloud Services
 
-- **Web App**: For hosting and serving the web application.
+- **App Service**: For hosting and serving the web application.
 - **Azure Blob Storage**: For storing books in azure cloud.
 - **Monitor**: For tracking and analyzing the performance and usage of the application.
 - **AI Services**: For enhancing the user experience with features like personalized recommendations and voice search.
 
 ## Overview
-OPENLIB is a web application allows users to access, read, and download books for free. The application should be user-friendly, secure, and scalable to accommodate a large number of users and books.
+OPENLIB is a web application allows users to Upload, read, and download books for free. The application should be user-friendly, secure, and scalable to accommodate a large number of users and books.
 ## Key Features
-- User Authentication
+- Upload Books 
+- User login
 - Book Management
 - User Friendly interface
 - Reading books online
@@ -73,6 +73,9 @@ OPENLIB is a web application allows users to access, read, and download books fo
 
 ## Azure Services ScreenShorts
 
+## Resource Group
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/resourcegroup.png)
+
 ## Web App
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/webapp.png)
 
@@ -110,7 +113,7 @@ OPENLIB is a web application allows users to access, read, and download books fo
 
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/Screenshot%202024-06-06%20153825.png)
 
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/homepage8.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/feedback.png)
 
 ## Books
 Books page before login
@@ -127,7 +130,7 @@ Books page before login
 
 
 Books page after login
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookspageafterlogin.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpageafterlogin.png)
 
 ## Upload Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/uploadpage1.png)
@@ -136,7 +139,7 @@ Books Page After Uploading a book
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/bookpage2.png)
 
 ## Contact page
-![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contactpage.png)
+![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/contactpage2.png)
 
 ## Chat Page
 ![image](https://github.com/sande88/MagicBus/blob/master/openlibreadmemdimages/chatpage1.png)
