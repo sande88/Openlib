@@ -687,9 +687,8 @@
   border-style:solid;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  border-style: dashed;
+  border-style:dashed;
   border-color: #1c6bff;
-
 }
 
 .cardbg{
@@ -698,9 +697,7 @@
   border-top-style: solid;
   border-color: #1c6bff;
   border-style: dashed;
-  border-right-style: none;
-  border-left-style: none;
-  border-bottom-style: none;
+  border: none;
 
 }
 
