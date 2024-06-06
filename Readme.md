@@ -2,7 +2,7 @@
 ## Demo URL: https://openlib.azurewebsites.net/
 ## Demo Video URL: https://youtu.be/RLF_bXXux8I
 
-
+The OpenLib project is designed to provide a comprehensive and accessible online platform where users can freely browse, read, and Upload a wide range of books. Our aim is to create an intuitive and user-friendly interface that caters to book enthusiasts, allowing them to explore various genres and authors. The platform also incorporates advanced cloud services to ensure seamless performance and scalability.
 
 ## Collabrators
 
