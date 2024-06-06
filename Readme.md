@@ -3,8 +3,6 @@
 ## Demo Video URL: https://youtu.be/RLF_bXXux8I
 
 
-
-
 ## Collabrators
 
 - **Santhosh B**: Sandesanthosh88@gmail.com
