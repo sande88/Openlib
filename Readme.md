@@ -1,5 +1,5 @@
 # Title: OpenLib
-## Demo URL: https://openlib.azurewebsites.net/
+## Demo URL: https://openlib-798p.onrender.com
 ## Demo Video URL: https://youtu.be/iHxc2GBARRQ?si=Dbm6h3fVvaUyUWNS
 
 
